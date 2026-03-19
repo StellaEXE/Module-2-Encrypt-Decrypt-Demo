@@ -1,0 +1,10 @@
+--- Symmetric Encryption (Fernet/AES) ---
+Key: b'v9RjA2_Qh8tF8w5K9Jp4R5T3Vq7M6N3L9U2O1S8mX0Y='
+Input: Secret Message: Hello World
+Output: gAAAAABm...[truncated]...
+Decrypted: Secret Message: Hello World
+
+--- Asymmetric Encryption (RSA) ---
+Input: Secret Message: RSA Info
+Encrypted Output (Hex): 9a2b3c4d5e...[truncated]...
+Decrypted: Secret Message: RSA Info
